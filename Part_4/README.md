@@ -187,7 +187,7 @@ services:
     image: redis
 ```
 
-Run docker compose again and and open URL: http://127.0.0.1:8080/?x=5
+Run docker compose again and open URL: http://127.0.0.1:8080/?x=5
 
 You will see different output. Open the same URL again...
 
