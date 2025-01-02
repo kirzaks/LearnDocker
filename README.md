@@ -8,10 +8,10 @@ Make sure to read all the lessons carefully and replicate the steps shown to rei
 
 
 
-- [Part 1 - Install Docker](https://github.com/kirzaks/docker-learn/tree/main/Part_1)
-- [Part 2 - Docker CLI](https://github.com/kirzaks/docker-learn/tree/main/Part_2)
-- [Part 3 - Docker compose](https://github.com/kirzaks/docker-learn/tree/main/Part_3)
-- [Part 4 - Dockerfile, docker build](https://github.com/kirzaks/docker-learn/tree/main/Part_4)
+- [Part 1 - Install Docker](https://github.com/kirzaks/LearnDocker/tree/main/Part_1)
+- [Part 2 - Docker CLI](https://github.com/kirzaks/LearnDocker/tree/main/Part_2)
+- [Part 3 - Docker compose](https://github.com/kirzaks/LearnDocker/tree/main/Part_3)
+- [Part 4 - Dockerfile, docker build](https://github.com/kirzaks/LearnDocker/tree/main/Part_4)
 
 
 
