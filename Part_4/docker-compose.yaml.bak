@@ -1,0 +1,9 @@
+services:
+
+  calc:
+    image: myproj
+    ports:
+      - 8080:8080
+
+  iamredis:
+    image: redis

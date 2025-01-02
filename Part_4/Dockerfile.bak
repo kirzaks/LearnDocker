@@ -1,0 +1,7 @@
+FROM python
+
+COPY calc.py /myfolder/
+
+RUN pip3 install flask redis
+
+CMD ["python", "/myfolder/calc.py"]
