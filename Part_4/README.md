@@ -178,7 +178,7 @@ Redis is an in-memory database. The Python script uses Redis to store informatio
 
 Press `Ctrl+C` to stop the container  or run `docker compose down` if you running in detached mode`-d`
 
-Add into docker compose file `redis` docker image insructions
+Add the Redis Docker image into a Docker Compose file
 
 ```yaml
 services:
