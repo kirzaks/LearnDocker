@@ -108,7 +108,7 @@ More instruction you can finde here: https://docs.docker.com/reference/dockerfil
 
 > FROM - Create a new build stage from a base image.
 > 
-> COPY calc.py /data/ - Copy file calc.py from current directory to /myfolder
+> COPY calc.py /data/ - Copy file calc.py from current directory to /data
 > 
 > RUN pip3 install flask redis - Execute command pip3 install flask redis
 > 
