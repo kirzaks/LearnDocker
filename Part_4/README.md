@@ -105,10 +105,15 @@ CMD ["python", "/data/calc.py"]
 ```
 
 More instruction you can finde here: https://docs.docker.com/reference/dockerfile/
+
 > FROM - Create a new build stage from a base image.
+> 
 > COPY calc.py /data/ - Copy file calc.py from current directory to /myfolder
+> 
 > RUN pip3 install flask redis - Execute command pip3 install flask redis
+> 
 > CMD ["python", "/data/calc.py"] - Run python /data/calc.py after on container start
+> 
 
 And build with command:
 
